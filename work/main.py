@@ -29,7 +29,7 @@ skills = content.split(',')
 
 for i in range(len(new_skills)):
     # append the first item in the list to the skills list
-    skills.insert(0,new_skills[i])
+    #skills.insert(0,new_skills[i])
     # vector it to calculate the distance
     vectorizer = TfidfVectorizer()
     # vectorizing the skillset
@@ -48,7 +48,7 @@ for i in range(len(new_skills)):
                     data["SCORE"] = cos_sim
     # remove the item that have been inserted to make the process faster and 
     # to avoid dubplication
-    skills.pop(0)
+    #skills.pop(0)
 print(data)
 
 # Now we can predict the most common skills for each job
