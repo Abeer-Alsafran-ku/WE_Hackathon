@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 path = sys.argv[1]
 
 # Load in the dataframe
-df = pd.read_csv(path, index_col=0, keep_default_na=False)
+df = pd.read_csv(path, index_col=0)
 # Taking the skills part
 
 f = open("generated_skills.txt" , "r")
@@ -35,9 +35,9 @@ j =0
 for i in range(1, len(content),2 ):
     df.at[j,"SKILL"] = content[i]
     #print(content[i]+"\n")
-    
     j += 1
 
-print(df["SKILL"])
+df.to_csv('out.csv',index=False)
+
 f.close()
 
