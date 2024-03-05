@@ -31,13 +31,9 @@ for cont in content:
 
 print(content)
 
-j =0 
 for i in range(1, len(content),2 ):
-    df.at[j,"SKILL"] = content[i]
-    #print(content[i]+"\n")
-    j += 1
+    print(content[i]+"\n")
 
-df.to_csv('out.csv',index=False)
 
 f.close()
 

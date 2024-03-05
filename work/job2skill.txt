@@ -454,6 +454,7 @@
 453- job held:'CER Senior Manager'| courses:'Creative Thinking: Techniques and Tools for Success'
 454- job held:'IP & Enterprise Tower Technician Senior Professional'| courses:'Negotiation  Fundamentals'
 455- job held:'CER Team Member'| courses:'Advanced Machine Learning and Signal Processing'
+
 456- job held:'FTTH Activation Engineer Senior Team Member'| courses:'Urgent Optimism: How to Turn Foresight into Action'
 457- job held:'Home Internet Acquisitions Senior Professional'| courses:'Corporate Finance I: Measuring and Promoting Value Creation'
 458- job held:'Regional RAN Optimization Engineer Team Member'| courses:'Capstone: Retrieving, Processing, and Visualizing Data with Python'
@@ -611,7 +612,7 @@
 610- job held:'Telesales Team Member PT'| courses:'Work Smarter, Not Harder: Time Management for Personal & Professional Productivity'
 611- job held:'Key Account's Senior Team Member'| courses:'English for Effective Business Speaking'
 612- job held:'RPA Developer Team Member'| courses:'Building Deep Learning Models with TensorFlow'
-613- job held:'Sales Back Office Senior Team Member'| courses:'ظ…ظ‡ط§ط±ط© ظ…ط®ط§ط·ط¨ط© ط§ظ„ط¬ظ…ظ‡ظˆط± | Public Speaking Skills'
+613- job held:'Sales Back Office Senior Team Member'| courses:'Public Speaking Skills'
 614- job held:'NOC Shift Senior Professional'| courses:'Negotiation  Fundamentals'
 615- job held:'Key Account's Senior Team Member'| courses:'Business English: Basics'
 616- job held:'RAN Configuration Professional'| courses:'Collaborative Foresight: How to Game the Future'
