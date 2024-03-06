@@ -31,9 +31,12 @@ for cont in content:
 
 print(content)
 
+count = 0 
 for i in range(1, len(content),2 ):
     print(content[i]+"\n")
+    count += 1
 
+print(count)
 
 f.close()
 
