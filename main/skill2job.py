@@ -12,21 +12,17 @@ import matplotlib.pyplot as plt
 
 
 def compute_cosine_similarity(string, string_list):
+
     # Combine the input string and the list of strings
     all_strings = [string] + string_list
 
-    #print("all strings " , all_strings, "\n")
-    
     # Create TF-IDF vectors
     vectorizer = TfidfVectorizer()
     tfidf_matrix = vectorizer.fit_transform(all_strings)
 
     # Compute cosine similarity between the input string and the list of strings
     cosine_similarities = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:]).flatten()
-
-    #print(cosine_similarities)
-
-    #print("\n")
+    
     return cosine_similarities
 
 
@@ -105,14 +101,12 @@ for job in c_jobs:
 #for i in range(len(uni_jobs)):
 #    print(f"{i}- job held:'{uni_jobs[i]}'| courses:'{courses[i]}'\n")
 
-job = input("Enter a job postion : ")
+input_skills = input("Enter a the skills that the candidate has and separate each skill with a comma : ")
 
-similarities = compute_cosine_similarity(job, uni_jobs)
+similarities = compute_cosine_similarity(input_skills, skills)
 
 # Print similarity scores
 for i, sim in enumerate(similarities):
-    if sim >= 0.6:
-        print(f"job similar to {job} is {uni_jobs[i]}'\nand course is:\n'{courses[i]}\nand skills:\n {skills[i]}'\n")
-    elif sim <= 0.1 :
-        print(f"Sorry! no job was fined\n")
-        break
+    #print(sim)
+    if sim >= 0.5:
+        print(f"Based on the skills you inputed the possible job position is {uni_jobs[i]} and recommended course is {courses[i]} \n")
