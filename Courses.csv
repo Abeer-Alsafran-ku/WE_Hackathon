@@ -1,0 +1,161 @@
+Course ID , Course Name             , Skills Taught IDs , Provider    , Duration , Format
+1, Intro to Python         ,1, Online Uni , 6 weeks  , Online
+2, Advanced Data Analysis  ,3, DataSchool , 12 weeks , Online
+3, Effective Communication,4, SkillBuild , 4 weeks  , In-person
+4, Machine Learning Basics ,9, AI Academy , 8 weeks  , Online
+5, Project Management Fundamentals ,2, SkillMaster , 6 weeks , In-person
+6, Data Visualization Techniques  ,81, VisualLearn , 10 weeks , Online
+7, Leadership Essentials ,94, LeadNow     , 5 weeks  , Hybrid
+8, Web Development Bootcamp ,13, CodeCraft   , 16 weeks , In-person
+9, Cybersecurity Fundamentals     ,115, SecureEd         , 8 weeks  , Online
+10, Business Analysis Workshop     ,47, AnalyzePro       , 4 weeks  , In-person
+11, UI/UX Design Principles        ,117, DesignHub        , 6 weeks  , Hybrid
+12, Negotiation Skills Mastery     ,114, NegotiateWell    , 10 weeks , Online
+13, SQL Crash Course               ,11, SQLMaster        , 3 weeks  , Online
+14, Data Engineering Bootcamp      ,93, DataForge        , 12 weeks , In-person
+15, Public Speaking Mastery        ,110, SpeakUpNow       , 8 weeks  , In-person
+16, Time Management Workshop       ,44, TimeMastery      , 5 weeks  , Hybrid
+17, Blockchain Basics              ,95, BlockTech        , 6 weeks  , Online
+18, Project Planning and Scheduling,2, PlanItRight      , 8 weeks  , In-person
+19, Data Governance Essentials    ,119, DataGovern       , 6 weeks  , Online
+20, Emotional Intelligence Workshop,78, EmotionIQ        , 4 weeks  , In-person
+21, DevOps Fundamentals            ,35, DevOpsAcademy    , 10 weeks , Online
+22, Mobile App Development Bootcamp,67, AppDevInstitute , 16 weeks , In-person
+23, Statistical Analysis Workshop ,7, StatsMasters     , 6 weeks  , In-person
+24, Leadership Development Program,58, LeadExcel        , 12 weeks , Hybrid
+25, Data Science Foundations      ,53, DataInsights     , 8 weeks  , Online
+26, Networking Essentials         ,112, NetLearn         , 5 weeks  , Online
+27, Creativity Workshop           ,106, CreativityLab    , 4 weeks  , Hybrid
+28, Software Testing Techniques   ,91, TestPro          , 8 weeks  , In-person
+29, Front-end Development Bootcamp,79, FrontEndForge    , 16 weeks , Hybrid
+30, Conflict Resolution Seminar   ,42, ResolveNow       , 6 weeks  , In-person
+31, Data Visualization Bootcamp     ,81, VizTech          , 12 weeks , Hybrid
+32, Financial Analysis Fundamentals,31, FinLearn         , 8 weeks  , Online
+33, Leadership in Practice         ,94, LeadInstitute    , 6 weeks  , In-person
+34, Python for Data Analysis       ,1, PythonMasters    , 6 weeks  , Online
+35, Project Management Essentials ,2, ProjectPro       , 10 weeks , Hybrid
+36, Communication Skills Workshop ,3, CommSkill        , 4 weeks  , In-person
+37, Machine Learning Applications ,9, MLExperts        , 8 weeks  , Online
+38, Software Development Bootcamp  ,51, CodeForge        , 16 weeks , In-person
+39, Network Security Fundamentals ,23, NetSecure        , 8 weeks  , Online
+40, Agile Project Management      ,35, AgileMaster      , 6 weeks  , Hybrid
+41, Business Intelligence Fundamentals,107, BIInstitute      , 10 weeks , Online
+42, Emotional Intelligence Mastery,78, EmoIQ            , 8 weeks  , In-person
+43, Web Design Essentials         ,117, WebDesignHub     , 6 weeks  , Online
+44, Data Warehousing Workshop     ,99, DataWare         , 4 weeks  , In-person
+45, Crisis Management Seminar     ,36, CrisisResolve    , 8 weeks  , Hybrid
+46, Data Science Bootcamp         ," 9, 25             ", DataSciencePro   , 20 weeks , In-person
+47, Presentation Skills Mastery   ,82, PresentMastery   , 6 weeks  , In-person
+48, Cloud Computing Fundamentals ,83, CloudTech        , 8 weeks  , Online
+49, Negotiation Strategies        ,12, NegotiationPro   , 6 weeks  , Hybrid
+50, SQL for Beginners             ,11, SQLBeginner      , 4 weeks  , Online
+51, Time Management Essentials   ,24, TimeEssentials   , 5 weeks  , In-person
+52, Data Analysis Bootcamp       ," 3, 49            ", DataAnalysisPro  , 12 weeks , Hybrid
+53, Leadership Skills Workshop   ,94, LeadSkills       , 4 weeks  , In-person
+54, Python Programming Workshop   ,1, PythonWorkshop   , 6 weeks  , Online
+55, UI/UX Design Bootcamp         ,117, DesignCamp       , 16 weeks , In-person
+56, Cybersecurity Essentials     ,115, SecureTech       , 10 weeks , Hybrid
+57, Conflict Resolution Training  ,42, ResolveTraining  , 8 weeks  , In-person
+58, Data Governance Workshop     ,119, DataGovWorkshop  , 6 weeks  , Online
+59, Public Speaking Essentials   ,110, SpeakEssentials  , 4 weeks  , In-person
+60, Mobile App Design Workshop   ,22, AppDesign        , 8 weeks  , Hybrid
+61, Data Analysis Fundamentals        ,3, DataInsights     , 6 weeks  , Online
+62, Leadership and Management        ,94, LeadForward      , 8 weeks  , Hybrid
+63, Python for Machine Learning      ," 1, 9              ", MLCode           , 10 weeks , In-person
+64, Business Strategy Development    ,107, BizStrategy      , 12 weeks , Online
+65, Graphic Design Essentials        ,116, GraphicMastery   , 6 weeks  , In-person
+66, Cloud Architecture Workshop      ,83, CloudArch        , 8 weeks  , Hybrid
+67, Project Management Professional ," 2, 35             ", PMPro            , 16 weeks , In-person
+68, Data Engineering Essentials     ,41, DataEng          , 10 weeks , Online
+69, Financial Modeling Workshop      ,31, FinModeling      , 6 weeks  , In-person
+70, Web Development Essentials       ,13, WebEssentials    , 8 weeks  , Hybrid
+71, Cybersecurity Advanced          ,115, SecureTech       , 12 weeks , Online
+72, Data Science for Business       ," 53, 107           ", DS4Biz           , 8 weeks  , Hybrid
+73, Marketing Analytics              ," 3, 107            ", MarketInsights   , 10 weeks , Online
+74, Leadership Development Workshop ,94, LeadDev          , 6 weeks  , In-person
+75, Advanced SQL Techniques         ,11, SQLAdvanced      , 8 weeks  , Online
+76, Public Relations Fundamentals    ,4, PRPros           , 6 weeks  , Hybrid
+77, Data Visualization Masterclass  ,81, VizMaster        , 12 weeks , In-person
+78, Software Engineering Principles ,51, SoftwarePrinciples , 10 weeks , Hybrid
+79, Negotiation and Conflict Resolution ," 42, 114        ", NegotiateResolve , 8 weeks  , Online
+80, Agile Scrum Fundamentals        ,35, AgileScrumFund  , 6 weeks  , In-person
+81, Digital Marketing Essentials    ," 3, 107            ", DigitalMktEss    , 8 weeks  , Online
+82, Leadership Communication        ,94, LeadComms        , 6 weeks  , Hybrid
+83, Data Governance Masterclass     ,119, DataGovMaster    , 10 weeks , In-person
+84, Front-end Development Fundamentals ,79, FrontEndFund     , 8 weeks  , Hybrid
+85, Machine Learning Applications   ,9, MLApps           , 12 weeks , Online
+86, Crisis Management Strategies    ,36, CrisisStrategies , 6 weeks  , In-person
+87, UI/UX Design Principles        ,117, DesignPrinciples , 8 weeks  , Online
+88, Business Intelligence Essentials ,107, BIEssentials     , 10 weeks , Hybrid
+89, Emotional Intelligence Workshop ,78, EmoWorkshop      , 6 weeks  , In-person
+90, Data Analysis Techniques        ,3, DataAnalysisTech , 8 weeks  , Hybrid
+91, Data Mining Fundamentals          ,101, MineData          , 8 weeks  , Online
+92, Effective Team Management        ," 6, 54            ", TeamEfficient     , 10 weeks , In-person
+93, Advanced Data Visualization     ,81, VizAdvanced       , 12 weeks , Hybrid
+94, Digital Strategy Development     ,107, DigitalStrat      , 8 weeks  , Online
+95, User Experience Design Workshop ,117, UXDesignWorkshop  , 6 weeks  , In-person
+96, Cloud Security Essentials       ," 115, 83          ", CloudSecEssentials, 10 weeks , Online
+97, Agile Project Management Masterclass,35, AgilePM           , 8 weeks  , Hybrid
+98, Data Analysis for Business       ," 3, 107           ", Data4Business     , 12 weeks , In-person
+99, Financial Planning Workshop      ,31, FinPlanWorkshop   , 6 weeks  , Hybrid
+100, Advanced Web Development        ," 13, 84            ", WebDevAdvanced    , 10 weeks , Online
+101, Advanced Cryptography            ,95, CryptoExperts     , 8 weeks  , In-person
+102, Data Science Applications       ," 25, 72            ", DataSciApps       , 12 weeks , Hybrid
+103, Marketing Strategy Masterclass  ," 3, 107            ", MktgStratMaster   , 10 weeks , Online
+104, Leadership Skills Development   ,94, LeadSkillsDev     , 8 weeks  , In-person
+105, Advanced Database Management    ,73, AdvDBManagement   , 12 weeks , Hybrid
+106, Software Testing Best Practices ,91, TestBestPractices , 8 weeks  , Online
+107, Public Speaking Excellence       ,110, SpeakExcellence   , 6 weeks  , In-person
+108, Big Data Analytics Techniques  ,49, BigDataTech       , 10 weeks , Online
+109, Negotiation Strategies Masterclass ," 42, 114       ", NegotiationMaster , 8 weeks  , Hybrid
+110, Scrum Master Certification      ,35, ScrumCert         , 6 weeks  , In-person
+111, Social Media Marketing Basics   ," 3, 107            ", SocialMktgBasics  , 8 weeks  , Online
+112, Executive Leadership Program    ,94, ExecLeadProgram   , 12 weeks , Hybrid
+113, Data Governance Workshop        ,119, DataGovWorkshop   , 8 weeks  , In-person
+114, Advanced Front-end Development ," 79, 85            ", AdvFrontEndDev    , 12 weeks , Hybrid
+115, Machine Learning Algorithms     ,9, MLAlgorithms      , 10 weeks , Online
+116, Crisis Management Strategies   ,36, CrisisMgtStrategies , 8 weeks  , In-person
+117, UX/UI Design Essentials         ,117, UXUIDesignEss     , 6 weeks  , Hybrid
+118, Business Intelligence Strategies ,107, BIStrat           , 10 weeks , Online
+119, Emotional Intelligence Workshop ,78, EmoIQWorkshop     , 6 weeks  , In-person
+120, Advanced Data Analysis Methods ," 3, 72             ", AdvDataAnalysis   , 12 weeks , Hybrid
+121, Data Science for Beginners        ,25, DataBeginner     , 8 weeks  , Online
+122, Strategic Planning Workshop       ,107, StratPlan        , 6 weeks  , In-person
+123, Advanced Machine Learning        ,9, AdvML            , 12 weeks , Hybrid
+124, Digital Marketing Strategies     ," 3, 107            ", DigitalMktStrat  , 10 weeks , Online
+125, User Interface Design Workshop   ,117, UIDesignWorkshop , 8 weeks  , Hybrid
+126, Cloud Computing Essentials       ,83, CloudEssentials  , 10 weeks , In-person
+127, Project Management Professional  ," 2, 35             ", PMProfessional   , 16 weeks , Online
+128, Data Engineering Fundamentals    ,41, DataEngFund      , 8 weeks  , Hybrid
+129, Financial Modeling Masterclass   ,31, FinModelMaster   , 12 weeks , In-person
+130, Web Development Advanced        ," 13, 84            ", WebDevAdvanced   , 10 weeks , Online
+131, Cryptography Fundamentals       ,95, CryptoFund       , 8 weeks  , Hybrid
+132, Applied Data Science            ," 25, 72            ", AppliedDataSci   , 12 weeks , In-person
+133, Marketing Analytics Masterclass ," 3, 107            ", MktgAnalytics    , 10 weeks , Online
+134, Leadership Development Workshop ,94, LeadDevWorkshop  , 8 weeks  , Hybrid
+135, Advanced Database Administration,73, AdvDBAdmin       , 12 weeks , In-person
+136, Software Testing Strategies     ,91, TestStrategies   , 8 weeks  , Online
+137, Public Speaking Skills Mastery  ,110, SpeakMastery     , 6 weeks  , In-person
+138, Big Data Analytics Workshop     ,49, BigDataWorkshop  , 10 weeks , Online
+139, Negotiation Techniques          ," 42, 114           ", NegotiationTech  , 8 weeks  , Hybrid
+140, Agile Scrum Master Certification,35, ScrumMasterCert  , 6 weeks  , In-person
+141, Social Media Marketing Strategies," 3, 107          ", SocialMktgStrat  , 8 weeks  , Online
+142, Executive Leadership Development,94, ExecLeadDev      , 12 weeks , Hybrid
+143, Data Governance Essentials      ,119, DataGovEss       , 8 weeks  , In-person
+144, Front-end Development Advanced  ," 79, 85            ", AdvFrontEndDev   , 12 weeks , Hybrid
+145, Advanced Machine Learning Algorithms,9, AdvMLAlgorithms  , 10 weeks , Online
+146, Crisis Management Workshop      ,36, CrisisMgtWorkshop, 8 weeks  , In-person
+147, UX/UI Design Masterclass        ,117, UXUIMaster       , 6 weeks  , Hybrid
+148, Business Intelligence Masterclass,107, BIMaster         , 10 weeks , Online
+149, Emotional Intelligence Mastery  ,78, EmoMastery       , 6 weeks  , In-person
+150, Advanced Data Analysis Techniques," 3, 72            ", AdvDataAnalysis  , 12 weeks , Hybrid
+151, Data Mining Techniques          ,101, DataMiningTech   , 8 weeks  , Online
+152, Team Collaboration Strategies   ," 6, 54             ", TeamCollabStrat  , 10 weeks , In-person
+153, Advanced Data Visualization     ,81, AdvDataViz       , 12 weeks , Hybrid
+154, Digital Strategy Masterclass    ,107, DigitalStratMaster, 10 weeks , Online
+155, Web Design for Beginners        ,13, WebDesignBeginner, 8 weeks  , In-person
+156, Cloud Security Masterclass      ," 115, 83          ", CloudSecMaster   , 12 weeks , Hybrid
+157, Project Management Essentials  ," 2, 35             ", PMEssentials     , 16 weeks , Online
+158, Data Engineering Masterclass    ,41, DataEngMaster    , 10 weeks , Hybrid
+159, Financial Planning Strategies   ,31, FinPlanStrategies, 6 weeks  , In-person
+160, Web Development Bootcamp        ," 13, 84            ", WebDevBootcamp   , 10 weeks , Online
