@@ -1,0 +1,121 @@
+﻿SkillID,SkillName,Category,Description
+1, Python Programming  , Hard     , Ability to write and debug Python code.
+2, Project Management  , Soft     , Overseeing projects to completion on time and within budget.
+3, Data Analysis       , Hard     , Analyzing datasets to extract meaningful insights.
+4, Communication       , Soft     , Effective verbal and written communication skills.
+5, Java Programming    , Hard     , Proficiency in Java programming language.
+6, Teamwork            , Soft     , Collaborating effectively with team members to achieve goals.
+7, Statistical Analysis, Hard     , Conducting statistical analysis on data sets.
+8, Leadership          , Soft     , Guiding and motivating team members towards common objectives.
+9, Machine Learning    , Hard     , Applying machine learning algorithms to solve complex problems.
+10, Adaptability        , Soft     , Ability to adjust and thrive in diverse environments.
+11, SQL                 , Hard     , Proficiency in Structured Query Language for database management.
+12, Creativity          , Soft     , Generating innovative ideas and solutions.
+13, Web Development     , Hard     ," Developing dynamic websites using HTML, CSS, and JavaScript."
+14, Conflict Resolution, Soft     , Resolving conflicts and disputes in a constructive manner.
+15, Research Skills     , Hard     , Conducting thorough and effective research.
+16, Critical Thinking   , Soft     , Analyzing and evaluating information to make informed decisions.
+17, Software Testing    , Hard     , Testing software applications to ensure quality and reliability.
+18, Time Management     , Soft     , Efficiently managing time and prioritizing tasks.
+19, R Programming       , Hard     , Proficiency in the R programming language for statistical computing.
+20, Negotiation         , Soft     , Negotiating mutually beneficial agreements and deals.
+21, Database Management , Hard     , Managing and optimizing database systems.
+22, Empathy             , Soft     , Understanding and empathizing with others' perspectives and feelings.
+23, Network Security    , Hard     , Implementing security measures to protect computer networks.
+24, Problem Solving     , Soft     , Identifying and resolving complex problems effectively.
+25, Data Visualization  , Hard     , Creating visual representations of data to aid understanding.
+26, Presentation Skills , Soft     , Delivering engaging and informative presentations.
+27, Version Control     , Hard     , Managing and tracking changes to source code using version control systems.
+28, Stress Management   , Soft     , Coping effectively with stress and pressure in the workplace.
+29, C++ Programming     , Hard     , Proficiency in the C++ programming language for software development.
+30, Adaptability        , Soft     , Being flexible and adaptable in changing circumstances.
+31, Financial Analysis  , Hard     , Analyzing financial data to inform business decisions.
+32, Coaching            , Soft     , Guiding and mentoring individuals to reach their full potential.
+33, Mobile Development  , Hard     , Developing applications for mobile devices.
+34, Conflict Management , Soft     , Managing and resolving conflicts among team members.
+35, DevOps              , Hard     , Implementing and automating continuous integration and deployment processes.
+36, Emotional Intelligence , Soft   , Understanding and managing one's own emotions and those of others.
+37, Cybersecurity       , Hard     , Protecting computer systems and networks from cyber threats.
+38, Public Speaking     , Soft     , Speaking confidently and effectively in public settings.
+39, Front-end Development , Hard   , Developing user interfaces for websites and web applications.
+40, Team Building       , Soft     , Fostering a cohesive and productive team environment.
+41, Data Engineering    , Hard     , Designing and implementing data pipelines for large-scale data processing.
+42, Conflict Resolution, Soft     , Resolving conflicts and disputes in a constructive manner.
+43, Natural Language Processing , Hard , Processing and analyzing human language data using computational methods.
+44, Time Management     , Soft     , Efficiently managing time and prioritizing tasks.
+45, Cloud Computing     , Hard     , Deploying and managing applications and services in cloud environments.
+46, Emotional Intelligence , Soft   , Understanding and managing one's own emotions and those of others.
+47, Business Analysis   , Hard     , Analyzing business processes and requirements to identify opportunities for improvement.
+48, Collaboration       , Soft     , Working effectively with others towards shared goals.
+49, Big Data Analytics  , Hard     , Analyzing large volumes of data to uncover patterns and trends.
+50, Resilience          , Soft     , Bouncing back from setbacks and adversity.
+51, Software Development, Hard     ," Designing, coding, and testing software applications."
+52, Decision Making     , Soft     , Making sound decisions based on careful consideration of available information.
+53, Network Administration , Hard   , Managing and maintaining computer networks and systems.
+54, Empathy             , Soft     , Understanding and empathizing with others' perspectives and feelings.
+55, Artificial Intelligence , Hard  , Developing systems that simulate human intelligence.
+56, Conflict Management , Soft     , Managing and resolving conflicts among team members.
+57, Data Warehousing    , Hard     , Designing and managing data repositories for analytics and reporting.
+58, Leadership Development , Soft   , Cultivating leadership skills in oneself and others.
+59, Front-end Development , Hard   , Developing user interfaces for websites and web applications.
+60, Cross-cultural Communication , Soft , Communicating effectively with individuals from diverse cultural backgrounds.
+61, Data Mining         , Hard     , Extracting patterns and knowledge from large datasets.
+62, Adaptability        , Soft     , Being flexible and adaptable in changing circumstances.
+63, Systems Architecture, Hard     , Designing and implementing complex computer systems.
+64, Creativity          , Soft     , Generating innovative ideas and solutions.
+65, Business Intelligence , Hard   , Using data analysis to inform strategic business decisions.
+66, Team Building       , Soft     , Fostering a cohesive and productive team environment.
+67, Mobile Application Development , Hard , Developing applications for mobile devices.
+68, Problem Solving     , Soft     , Identifying and resolving complex problems effectively.
+69, Quality Assurance   , Hard     , Ensuring the quality and reliability of software products.
+70, Public Speaking     , Soft     , Speaking confidently and effectively in public settings.
+71, Robotics            , Hard     , Designing and building robots for various applications.
+72, Networking          , Soft     , Building and maintaining professional relationships.
+73, Database Design     , Hard     , Designing efficient and scalable database structures.
+74, Negotiation         , Soft     , Negotiating mutually beneficial agreements and deals.
+75, Cybersecurity       , Hard     , Protecting computer systems and networks from cyber threats.
+76, Conflict Resolution, Soft     , Resolving conflicts and disputes in a constructive manner.
+77, UI/UX Design        , Hard     , Designing intuitive and visually appealing user interfaces.
+78, Emotional Intelligence , Soft   , Understanding and managing one's own emotions and those of others.
+79, Data Governance     , Hard     , Establishing policies and procedures for data management.
+80, Teamwork            , Soft     , Collaborating effectively with team members to achieve goals.
+81, Data Visualization  , Hard     , Creating visual representations of data to aid understanding.
+82, Presentation Skills , Soft     , Delivering engaging and informative presentations.
+83, Cloud Architecture  , Hard     , Designing and implementing scalable cloud infrastructure.
+84, Adaptability        , Soft     , Ability to adjust and thrive in diverse environments.
+85, Data Modeling       , Hard     , Designing structured representations of data for storage and processing.
+86, Networking          , Soft     , Building and maintaining professional relationships.
+87, Full Stack Development , Hard   , Developing both client and server-side components of web applications.
+88, Collaboration       , Soft     , Working effectively with others towards shared goals.
+89, Predictive Analytics , Hard     , Using statistical and machine learning techniques to make predictions.
+90, Resilience          , Soft     , Bouncing back from setbacks and adversity.
+91, Software Testing    , Hard     , Testing software applications to ensure quality and reliability.
+92, Critical Thinking   , Soft     , Analyzing and evaluating information to make informed decisions.
+93, Data Engineering    , Hard     , Designing and implementing data pipelines for large-scale data processing.
+94, Leadership          , Soft     , Guiding and motivating team members towards common objectives.
+95, Blockchain          , Hard     , Implementing decentralized digital ledger technology.
+96, Emotional Intelligence , Soft   , Understanding and managing one's own emotions and those of others.
+97, Artificial Intelligence , Hard  , Developing systems that simulate human intelligence.
+98, Conflict Management , Soft     , Managing and resolving conflicts among team members.
+99, Data Warehousing    , Hard     , Designing and managing data repositories for analytics and reporting.
+100, Empathy             , Soft     , Understanding and empathizing with others' perspectives and feelings.
+101, Data Mining         , Hard     , Extracting patterns and knowledge from large datasets.
+102, Team Building       , Soft     , Fostering a cohesive and productive team environment.
+103, Natural Language Processing , Hard , Processing and analyzing human language data using computational methods.
+104, Decision Making     , Soft     , Making sound decisions based on careful consideration of available information.
+105, Systems Architecture, Hard     , Designing and implementing complex computer systems.
+106, Creativity          , Soft     , Generating innovative ideas and solutions.
+107, Business Intelligence , Hard   , Using data analysis to inform strategic business decisions.
+108, Problem Solving     , Soft     , Identifying and resolving complex problems effectively.
+109, Quality Assurance   , Hard     , Ensuring the quality and reliability of software products.
+110, Public Speaking     , Soft     , Speaking confidently and effectively in public settings.
+111, Robotics            , Hard     , Designing and building robots for various applications.
+112, Networking          , Soft     , Building and maintaining professional relationships.
+113, Database Design     , Hard     , Designing efficient and scalable database structures.
+114, Negotiation         , Soft     , Negotiating mutually beneficial agreements and deals.
+115, Cybersecurity       , Hard     , Protecting computer systems and networks from cyber threats.
+116, Conflict Resolution, Soft     , Resolving conflicts and disputes in a constructive manner.
+117, UI/UX Design        , Hard     , Designing intuitive and visually appealing user interfaces.
+118, Emotional Intelligence , Soft   , Understanding and managing one's own emotions and those of others.
+119, Data Governance     , Hard     , Establishing policies and procedures for data management.
+120, Teamwork            , Soft     , Collaborating effectively with team members to achieve goals.
